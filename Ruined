@@ -1,0 +1,2 @@
+--mobile support(Arceus X and Script-ware iOS compatible)
+loadstring(game:HttpGet(("https://pastebin.com/hxeZPwYA")))
